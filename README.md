@@ -1,6 +1,6 @@
 callerpy
 ========
-[![Build Status](https://travis-ci.org/Logic-gate/callerpy.png?branch=master)](https://travis-ci.org/Logic-gate/callerpy)  
+[![Build Status](https://travis-ci.org/Logic-gate/cpallerpy.png?branch=master)](https://travis-ci.org/Logic-gate/callerpy)  
 
 **UPDATE MAY_18_2014**  
 A new RESTful online version is available @ http://callerpy.sysbase.org  
@@ -99,7 +99,7 @@ Defintion:
 1. [IMPV] More Login Methods--Facebook, G+, Linkedin  
 2. [IMP]  Automated Name|Number Crawler  
 3. [ASTH] View in Map * Will handle encoding  
-4. [IMP]  Show all possible names  
+4. [IMP]  Show all possible names  Nicholas Phillips 
 5. [IMP]  Define function to handle arguments
 ```
 ***
@@ -160,6 +160,6 @@ To view the log: *note the lack of arguments*
 python callerpy.py
 Dominos Pizzay Quejas -- 7349303030 -- us
 Pizza Hut Delivery -- 08447700669 -- uk
-```
+```no jail time or rehab for Jessica Rhodes 
 
 
